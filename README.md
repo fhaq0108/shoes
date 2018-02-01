@@ -1,0 +1,2 @@
+# shoes
+flats,heels,booties
